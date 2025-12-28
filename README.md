@@ -10,7 +10,7 @@ Feel free to use these for a hackathon, side project, or hacklodge project -- I'
 
 ## Funding
 
-If you fully deploy the project publicly, I award free hosting and small cash prizes at $40 per idea ($80 per crypto idea). The crypto ideas are 2x matched by [@smsunarto](https://twitter.com/smsunarto). This is at my discretion so people don't game the system or feel cheated; the point is to build the project for learning and self-satisfaction, not the grant -- the money is mostly just so you can pay for a domain and forget about it, so it can continue to exist :). I will likely fund any good-faith implementation. Reach out to [me](https://twitter.com/yush_g) if you're interested in helping sponsor bounties as well!
+If you fully deploy the project publicly, I award free hosting and small cash prizes at $25 per idea. This is at my discretion so people don't game the system or feel cheated; the point is to build the project for learning and self-satisfaction, not the grant -- the money is mostly just so you can pay for a domain and forget about it, so it can continue to exist :). I will likely fund any good-faith implementation. Reach out to [me](https://twitter.com/yush_g) if you're interested in helping sponsor bounties as well!
 
 **Total projects built: 17.**
 
@@ -271,6 +271,7 @@ Overall, I strongly advise against closed source and ads -- not just because of 
 
 ### Video Processing
 
+- **Individual Subtitles**: A companion chrome extension and app that takes the subtitles from Netflix and shows it on just one persons phone instead, and stays consistent timing nwise even if the main video is paused.
 - **Blink Tracker for iOS/Android**: Count blinks and display on screen. Here is a [full spec for an iOS app](https://docs.google.com/document/d/1w6dA5UAvva4zIa9e-msC-8sv5pUHpkX-7uuwCeT-C3Q/edit?usp=sharing).
   - DONE (Android): This is done by [Sergey V.](https://github.com/djkovrik/BlinkTracker), download from [Google Play](https://play.google.com/store/apps/details?id=com.sedsoftware.blinktracker)
 - **Combine Lecture Videos**: Given a set of videos (that may be slightly offset) from different angles, combine them into one video that cuts between the frames. This already exists for ai podcast processing software so shouldn't be too hard to adapt? Full [spec for CLI tool here](https://docs.google.com/document/d/1oInpmyf3xikM6TOMaz6Uqz5ZStdFyP7YqKX39RR9nMQ/edit).
